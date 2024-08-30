@@ -51,7 +51,7 @@ Skills Used: Network programming, client-server architecture, message exchange.
 Learning Outcomes:
 Through these projects, I gained experience in:
 
-> Java programming and problem-solving.
-> Developing user-friendly applications with GUI frameworks like JavaFX.
-> Understanding and implementing networking and multithreading in Java.
-> Handling real-time data through API integration.
+* Java programming and problem-solving.
+* Developing user-friendly applications with GUI frameworks like JavaFX.
+* Understanding and implementing networking and multithreading in Java.
+* Handling real-time data through API integration.
